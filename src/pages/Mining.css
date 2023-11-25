@@ -1,0 +1,15 @@
+ion-card {
+    --background: #000000af;
+    --color: #ffffff;
+    margin-top: 2%;
+    border-radius: 10px;
+
+  }
+  
+  ion-card-title {
+    --color: #ffffff;
+  }
+  
+  ion-card-subtitle {
+    --color: #ffffff;
+  }

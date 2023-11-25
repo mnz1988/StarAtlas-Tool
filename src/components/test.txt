@@ -1,0 +1,48 @@
+in App.tsx file for creating side menu and open it with a buttom and swaping side
+first: 
+{/* <>
+          <IonMenu contentId="main-content">
+          <IonHeader>
+            <IonToolbar color="tertiary">
+              <IonTitle>Q&A / Connect</IonTitle>
+            </IonToolbar>
+          </IonHeader>
+          
+          <IonContent className="ion-padding">
+            <a href='#' >
+              <IonIcon icon={logoDiscord}/>
+              <IonLabel> Link to Discord</IonLabel>
+            </a>
+          </IonContent>
+          
+          <IonToolbar color="dark">
+            <IonTitle>Social Pages</IonTitle>
+          </IonToolbar>
+          
+          <IonContent className="ion-padding">
+          <IonIcon icon={logoTwitter}/> 
+            X link, or Telegram Chl 
+          </IonContent>
+          
+          <IonToolbar color="light">
+            <IonTitle>Log In / Sign Up</IonTitle>
+          </IonToolbar>
+          <IonContent className="ion-padding">
+            <a href='#' >
+              <IonIcon icon={logoDiscord}/>
+              <IonLabel> Link to Discord</IonLabel>
+            </a>
+          </IonContent>
+          
+          
+        </IonMenu>
+
+    </> */}
+
+    then:
+
+    {/* <IonTabButton >
+          <IonPage id="main-content">
+              <IonMenuButton>"--"</IonMenuButton>
+          </IonPage>
+          </IonTabButton> */}

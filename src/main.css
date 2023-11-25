@@ -1,0 +1,71 @@
+/* /*
+ * Optional CSS
+ * -----------------------------------
+ */
+
+/* This sets a different background and item background in light mode on ios */
+/* .ios body { */
+  /* --ion-background-color: linear-gradient(90deg, #198276 0%, #00a693 100%); */
+  /* --ion-toolbar-color:var(--ion-color-dark-contrast); */
+  /* --ion-toolbar-background: none ; */
+  /* --ion-tab-bar-background: none; */
+  /* --ion-tab-bar-border-color: none: */
+/* } */
+  
+/* This sets a different background and item background in light mode on md */
+/* .md body { */
+  /* --ion-background-color: linear-gradient(90deg, #198276 0%, #00a693 100%); */
+  /* --ion-toolbar-color:var(--ion-color-dark-contrast); */
+  /* --ion-toolbar-background: none ; */
+  /* --ion-tab-bar-background: none; */
+  /* --ion-tab-bar-border-color: none: */
+/* } */
+
+  /* Moji CSS */
+  /* --ion-background-color: linear-gradient(90deg, #198276 0%, #00a693 100%);
+  --ion-toolbar-color:var(--ion-color-dark-contrast);
+  --ion-toolbar-background:none;
+  --ion-tab-bar-background:#00a693;
+  --ion-tab-bar-border-color: none:   */
+/* }
+.mylottiebg {
+  position: fixed;
+  z-index: -500;
+  height: 100%;
+  width: 125%;
+  margin-top: -5%;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  opacity: 60%;
+}
+ion-content {
+  --color: #fff;
+}
+ion-toolbar {
+  z-index: 501;
+}
+ion-tab {
+  z-index: 502;
+}
+ion-tab-bar {
+  z-index: 503;
+}
+ion-menu::part(backdrop) {
+  background-color: rgba(255, 0, 255, 0.5);
+}
+
+ion-menu::part(container) {
+  border-radius: 0 20px 20px 0;
+
+  box-shadow: 4px 0px 16px rgba(255, 0, 255, 0.18);
+}
+ion-menu-button {
+  width: fit-content;
+  font-size: medium;
+  font-style:normal;
+  border: var(--ion-color-primary);
+  border-style:solid;
+  border-radius: 10px;
+  border-width: 0.5px;
+} */
